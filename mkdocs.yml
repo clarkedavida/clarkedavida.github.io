@@ -1,0 +1,21 @@
+site_name: David Clarke, Physicist 
+site_url: https://clarkedavida.github.io/
+theme:
+    name: material
+nav:
+    - Home: index.md
+    - Research: research.md
+    - Learning: learning.md
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/dclarkephysics
+    - icon: fontawesome/brands/github
+      link: https://github.com/clarkedavida
+    - icon: fontawesome/brands/linkedin
+      link: www.linkedin.com/in/dclarkephysics
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/David-Clarke-47
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-5570-0894 
+

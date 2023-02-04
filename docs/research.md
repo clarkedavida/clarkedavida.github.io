@@ -5,16 +5,17 @@ theory and software development.
 
 ## HVP contribution to muon anomalous magnetic moment
 
-## QCD phase diagram at non-zero real baryon chemical potential 
 
-- 2022: D. A. Clarke, "Isothermal and isentropic speed of sound in (2+1)-flavor
-QCD at non-zero baryon chemical potential" PoS(LATTICE2022)147,
-`arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
-
-- 2022: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch
-_et al._, "Equation of state and speed of sound of (2+1)-flavor QCD
-in strangeness-neutral matter at non-vanishing net baryon-number
-density" `arXiv`: [2212.09043](https://arxiv.org/abs/2212.09043).
+The anomalous magnetic moment $a_\mu$ gives the Standard Model correction
+to the muon's response to an external magnetic field. The hadronic vacuum
+polarization (HVP) is a contribution that is not calculable perturbatively, but
+it can be computed on the lattice and using so-called data-driven approaches.
+A state-of-the-art determination from Fermilab places experimental
+searches for $a_\mu$ at $4.2\sigma$ tension against data-driven theoretical
+methods. Almost simultaneously, a lattice determination of the HVP contribution
+places $a_\mu$ between these two values, favoring the experimental result.
+We perform an independent lattice calculation of the HVP to help sort
+out this situation.
 
 ## QCD phase diagram at pure imaginary baryon chemical potential
 
@@ -38,6 +39,23 @@ et al., "Detecting critical points from Lee-Yang edge singularities in
 lattice QCD", Acta Phys. Pol. B Proc. Suppl. 16, 1-A52, `DOI`:
 [10.5506/APhysPolBSupp.16.1-A52](https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=16&aid=1-A52) 
 `arXiv`: [2209.04345](https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=16&aid=1-A52).
+
+## QCD phase diagram at non-zero real baryon chemical potential 
+
+A popular strategy to circumvent the sign problem is to access the QCD grand
+partition function $Z_{\text{QCD}}$ through Taylor expansion about $\mu_B=0$.
+Here we use state-of-the-art, eighth-order Taylor expansions to provide bounds on the
+location of a possible critical endpoint in the QCD phase diagram. We also use
+$Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
+
+- 2022: D. A. Clarke, "Isothermal and isentropic speed of sound in (2+1)-flavor
+QCD at non-zero baryon chemical potential" PoS(LATTICE2022)147,
+`arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
+
+- 2022: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch
+_et al._, "Equation of state and speed of sound of (2+1)-flavor QCD
+in strangeness-neutral matter at non-vanishing net baryon-number
+density" `arXiv`: [2212.09043](https://arxiv.org/abs/2212.09043).
 
 ## Gluonic observables in the chiral limit of (2+1)-flavor QCD
 

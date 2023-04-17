@@ -31,8 +31,9 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
 
 - 2023: K. Zambello, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et
 al._, "Determination of Lee-Yang edge singularities in QCD by rational
-approximations", PoS(LATTICE2022)164, `arXiv`: 
-[2301.03952](https://arxiv.org/abs/2301.03952).
+approximations", PoS(LATTICE2022)164, 
+`DOI`:[10.22323/1.430.0164](https://doi.org/10.22323/1.430.0164)
+`arXiv`: [2301.03952](https://arxiv.org/abs/2301.03952).
 
 - 2022: C. Schmidt, D. A. Clarke, P. Dimopoulos, J. Goswami, G. Nicotra
 et al., "Detecting critical points from Lee-Yang edge singularities in
@@ -50,6 +51,7 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 
 - 2022: D. A. Clarke, "Isothermal and isentropic speed of sound in (2+1)-flavor
 QCD at non-zero baryon chemical potential" PoS(LATTICE2022)147,
+`DOI`:[10.22323/1.430.0147](https://doi.org/10.22323/1.430.0147)
 `arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
 
 - 2022: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch

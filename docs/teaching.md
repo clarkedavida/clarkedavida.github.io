@@ -5,6 +5,8 @@
 *Instructor of Record*
 
 - Student Research Initiative: Computational Methods for Hot Nuclear
+Matter, Summer 2023.
+- Student Research Initiative: Computational Methods for Hot Nuclear
 Matter, Spring 2023.
 
 ## Bielefeld University

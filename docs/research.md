@@ -127,7 +127,13 @@ scales for pure SU(2) lattice gauge theory", Phys. Rev. D, 95, `DOI`:
             includes modules for measurement of various observables.
             It can run on both NVIDIA and AMD GPUs.
 
-- 2021: L. Altenkort, D. Bollweg, D. A. Clarke, O. Kaczmarek, L. Mazur
+- 2023: L. Mazur, D. Bollweg, D. A. Clarke, L. Altenkort, O. Kaczmarek
+_et al._,
+      "HotQCD on Multi-GPU Systems",
+      396 PoS(LATTICE2021)196,
+      `arXiv`:
+           [2306.01098](https://arxiv.org/abs/2306.01098).
+- 2021: D. Bollweg, L. Altenkort, D. A. Clarke, O. Kaczmarek, L. Mazur
 _et al._,
       "HotQCD on Multi-GPU Systems",
       396 PoS(LATTICE2021)196,

@@ -129,8 +129,7 @@ scales for pure SU(2) lattice gauge theory", Phys. Rev. D, 95, `DOI`:
 
 - 2023: L. Mazur, D. Bollweg, D. A. Clarke, L. Altenkort, O. Kaczmarek
 _et al._,
-      "HotQCD on Multi-GPU Systems",
-      396 PoS(LATTICE2021)196,
+      "SIMULATeQCD: A simple multi-GPU lattice code for QCD calculations",
       `arXiv`:
            [2306.01098](https://arxiv.org/abs/2306.01098).
 - 2021: D. Bollweg, L. Altenkort, D. A. Clarke, O. Kaczmarek, L. Mazur

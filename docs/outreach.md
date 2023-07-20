@@ -2,7 +2,8 @@
 
 ## Diversity and inclusion
 
-- 2021-2022: CRC Equal Opportunity Committee Member
+- 2023-present: UoU PASSAGE Member
+- 2021-2022: CRC-TR211 Equal Opportunity Committee Member
 - 2017-2018: APS Academic Peer Mentor
 - 2016-2018: APS Bridge Program Mentor
 

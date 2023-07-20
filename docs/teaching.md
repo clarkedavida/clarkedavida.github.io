@@ -1,13 +1,18 @@
 # Teaching 
 
+I've had the opportunity to do a lot of physics teaching at several levels.
+For various classes I've been a tutor, a teaching assistant (TA), or a grader.
+Recently I've been the Instructor of Record for a small class that exposes
+first-year undergraduates to lattice field theory.
+This was made possible through the
+[Science Research Initiative](https://science.utah.edu/sri/).
+
 ## University of Utah
 
 *Instructor of Record*
 
-- Student Research Initiative: Computational Methods for Hot Nuclear
-Matter, Summer 2023.
-- Student Research Initiative: Computational Methods for Hot Nuclear
-Matter, Spring 2023.
+- [Computational Methods for Hot Nuclear Matter](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter), Summer 2023.
+- [Computational Methods for Hot Nuclear Matter](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter), Spring 2023.
 
 ## Bielefeld University
 
@@ -46,7 +51,6 @@ Matter, Spring 2023.
 - Mechanics, Electricity and Magnetism, Waves, Fall & Spring 2010.
 
 
-
 ## Python pedagogical talks
 
 Bielefeld University was partnered with two other German universities in a CRC; this
@@ -59,3 +63,10 @@ pedagogical talks are a result of that.
 - [OOP in Python](pdfs/pythonOOP2021.pdf)
 - [Targeting performance with Python](pdfs/pythonFAST2021.pdf)
 
+## Talks about teaching
+
+Every year the [American Association of Physics Teachers](https://www.aapt.org/) hosts
+a conference about teaching physics. Sometimes I share something about my teaching
+experience when I'm there.
+
+- [Simulating reality](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter/blob/main/presentations/2023_AAPT.pdf)

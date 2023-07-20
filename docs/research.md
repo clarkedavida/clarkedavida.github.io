@@ -49,15 +49,17 @@ Here we use state-of-the-art, eighth-order Taylor expansions to provide bounds o
 location of a possible critical endpoint in the QCD phase diagram. We also use
 $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 
+- 2023: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch
+_et al._, "Equation of state and speed of sound of (2+1)-flavor QCD
+in strangeness-neutral matter at non-vanishing net baryon-number
+density" 
+`DOI`:[10.1103/PhysRevD.108.014510](https://doi.org/10.1103/PhysRevD.108.014510)
+`arXiv`: [2212.09043](https://arxiv.org/abs/2212.09043).
+
 - 2022: D. A. Clarke, "Isothermal and isentropic speed of sound in (2+1)-flavor
 QCD at non-zero baryon chemical potential" PoS(LATTICE2022)147,
 `DOI`:[10.22323/1.430.0147](https://doi.org/10.22323/1.430.0147)
 `arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
-
-- 2022: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch
-_et al._, "Equation of state and speed of sound of (2+1)-flavor QCD
-in strangeness-neutral matter at non-vanishing net baryon-number
-density" `arXiv`: [2212.09043](https://arxiv.org/abs/2212.09043).
 
 ## Gluonic observables in the chiral limit of (2+1)-flavor QCD
 
@@ -142,9 +144,10 @@ _et al._,
            [2111.10354](https://arxiv.org/abs/2111.10354).
 
 
-## AnalysisToolbox
+## LatticeToolbox
 
-The [AnalysisToolbox](https://github.com/LatticeQCD/AnalysisToolbox) is a set of Python tools 
-for analyzing physics data, in particular targeting lattice QCD. It includes physics modules,
-for instance allowing hadron resonance gas model calculations, and it also includes moderate
-interfacing with HotQCD and MILC software.
+The [LatticeToolbox](https://github.com/LatticeQCD/LatticeToolbox) is a set of Python tools 
+for analyzing physics data, in particular targeting lattice QCD. It includes 
+statistics modules, such as general jackknife and bootstrap error bar calculators;
+physics modules, for instance allowing hadron resonance gas model calculations; 
+and it also includes moderate interfacing with HotQCD and MILC software.

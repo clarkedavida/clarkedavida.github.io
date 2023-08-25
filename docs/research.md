@@ -32,7 +32,7 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
 - 2023: K. Zambello, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et
 al._, "Determination of Lee-Yang edge singularities in QCD by rational
 approximations", PoS(LATTICE2022)164, 
-`DOI`:[10.22323/1.430.0164](https://doi.org/10.22323/1.430.0164)
+`DOI`: [10.22323/1.430.0164](https://doi.org/10.22323/1.430.0164)
 `arXiv`: [2301.03952](https://arxiv.org/abs/2301.03952).
 
 - 2022: C. Schmidt, D. A. Clarke, P. Dimopoulos, J. Goswami, G. Nicotra
@@ -53,12 +53,12 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 _et al._, "Equation of state and speed of sound of (2+1)-flavor QCD
 in strangeness-neutral matter at non-vanishing net baryon-number
 density" 
-`DOI`:[10.1103/PhysRevD.108.014510](https://doi.org/10.1103/PhysRevD.108.014510)
+`DOI`: [10.1103/PhysRevD.108.014510](https://doi.org/10.1103/PhysRevD.108.014510)
 `arXiv`: [2212.09043](https://arxiv.org/abs/2212.09043).
 
 - 2022: D. A. Clarke, "Isothermal and isentropic speed of sound in (2+1)-flavor
 QCD at non-zero baryon chemical potential" PoS(LATTICE2022)147,
-`DOI`:[10.22323/1.430.0147](https://doi.org/10.22323/1.430.0147)
+`DOI`: [10.22323/1.430.0147](https://doi.org/10.22323/1.430.0147)
 `arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
 
 ## Gluonic observables in the chiral limit of (2+1)-flavor QCD
@@ -151,3 +151,9 @@ for analyzing physics data, in particular targeting lattice QCD. It includes
 statistics modules, such as general jackknife and bootstrap error bar calculators;
 physics modules, for instance allowing hadron resonance gas model calculations; 
 and it also includes moderate interfacing with HotQCD and MILC software.
+
+- 2023: L. Altenkort, D. A. Clarke, J. Goswami, H. Sandmeyer,
+"Streamlined data analysis in Python"
+      `arXiv`:
+           [2308.06652](https://arxiv.org/abs/2308.06652)
+

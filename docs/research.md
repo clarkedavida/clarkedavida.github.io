@@ -31,21 +31,41 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
             of phase transitions like the chiral transition.
 
 ??? note "Publications"
-    - 2023: K. Zambello, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et
-    al._, "Determination of Lee-Yang edge singularities in QCD by rational
-    approximations", PoS(LATTICE2022)164, 
+    - 2024: F. Di Renzo, D. A. Clarke, P. Dimopoulos, C. Schmidt, J. Goswami _et al._
+     "Detecting Lee-Yang/Fisher singularities by multi-point Padè",
+    `arXiv`: [2401.09619](https://arxiv.org/abs/2401.09619)
+
+    - 2024: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
+    "Searching for the QCD critical point using Lee-Yang edge 
+    singularities",
+    `arXiv`: [2401.08820](https://arxiv.org/abs/2401.08820)
+
+    - 2024: C. Schmidt, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et al._ 
+    "Universal scaling and the asymptotic behaviour of Fourier 
+    coefficients of the baryon-number density in QCD",
+    `arXiv`: [2401.07790](https://arxiv.org/abs/2401.07790)
+
+    - 2024: J. Goswami, D. A. Clarke, P. Dimopoulos, F. Di Renzo, C. Schmidt _et al._ 
+    "Exploring the Critical Points in QCD with Multi-Point Padé and 
+    Machine Learning Techniques in (2+1)-flavor QCD",
+    `arXiv`: [2401.05651](https://arxiv.org/abs/2401.05651)
+
+    - 2023: K. Zambello, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et al._ 
+    "Determination of Lee-Yang edge singularities in QCD by rational
+    approximations", 
+    PoS(LATTICE2022)164, 
     `DOI`: [10.22323/1.430.0164](https://doi.org/10.22323/1.430.0164)
     `arXiv`: [2301.03952](https://arxiv.org/abs/2301.03952).
     
-    - 2022: C. Schmidt, D. A. Clarke, P. Dimopoulos, J. Goswami, G. Nicotra
-    et al., "Detecting critical points from Lee-Yang edge singularities in
+    - 2022: C. Schmidt, D. A. Clarke, P. Dimopoulos, J. Goswami, G. Nicotra _et al._ 
+    "Detecting critical points from Lee-Yang edge singularities in
     lattice QCD", Acta Phys. Pol. B Proc. Suppl. 16, 1-A52, `DOI`:
     [10.5506/APhysPolBSupp.16.1-A52](https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=16&aid=1-A52) 
     `arXiv`: [2209.04345](https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=16&aid=1-A52).
 
 ??? note "Presentations"
-    - [Searching for the QCD critical point using Lee-Yang edge singularities](pdfs/pres_LAT5.pdf)
-    - [Searching for the QCD critical point using Lee-Yang edge singularities](pdfs/CPOD.pdf)
+    - [UIC High Energy Physics Seminar](pdfs/2024_UIC.pdf)
+    - [MUSES Seminar](pdfs/2024_MUSES.pdf)
 
 
 ## QCD phase diagram at non-zero real baryon chemical potential 
@@ -57,15 +77,23 @@ location of a possible critical endpoint in the QCD phase diagram. We also use
 $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 
 ??? note "Publications"
-    - 2023: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch
-    _et al._, "Equation of state and speed of sound of (2+1)-flavor QCD
+
+    - 2023: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky.
+    "QCD material parameters at zero and non-zero chemical potential from the
+    lattice",
+    `arXiv`: [2312.16703](https://arxiv.org/abs/2312.16703).
+
+    - 2023: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch _et al._  
+    "Equation of state and speed of sound of (2+1)-flavor QCD
     in strangeness-neutral matter at non-vanishing net baryon-number
     density" 
     `DOI`: [10.1103/PhysRevD.108.014510](https://doi.org/10.1103/PhysRevD.108.014510)
     `arXiv`: [2212.09043](https://arxiv.org/abs/2212.09043).
     
-    - 2022: D. A. Clarke, "Isothermal and isentropic speed of sound in (2+1)-flavor
-    QCD at non-zero baryon chemical potential" PoS(LATTICE2022)147,
+    - 2022: D. A. Clarke. 
+    "Isothermal and isentropic speed of sound in (2+1)-flavor
+    QCD at non-zero baryon chemical potential",
+    PoS(LATTICE2022)147,
     `DOI`: [10.22323/1.430.0147](https://doi.org/10.22323/1.430.0147)
     `arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
 
@@ -90,25 +118,27 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 ??? note "Publications"
     - 2021: D. A. Clarke, O. Kaczmarek, F. Karsch, A. Lahiri, and M. Sarkar.
     "Imprint of chiral symmetry restoration on the Polyakov loop and
-    the heavy quark free energy", 396 PoS(LATTICE2021)184, `DOI`:
+    the heavy quark free energy", 
+    PoS(LATTICE2021)184, `DOI`:
     [10.22323/1.396.0184](https://pos.sissa.it/396/184/) 
     `arXiv`: [2111.09844](https://arxiv.org/abs/2111.09844).
     
-    - 2021: D. A. Clarke, O. Kaczmarek, A. Lahiri, and M. Sarkar. "Sensitivity of
-    the Polyakov loop to chiral symmetry restoration", Acta Phys. Pol. B
+    - 2021: D. A. Clarke, O. Kaczmarek, A. Lahiri, and M. Sarkar. 
+    "Sensitivity of the Polyakov loop to chiral symmetry restoration", 
+    Acta Phys. Pol. B
     Proc. Suppl. 14, 311 `DOI`: 
     [10.5506/APhysPolBSupp.14.311](https://doi.org/10.5506/APhysPolBSupp.14.311) 
     `arXiv`: [2010.15825](https://arxiv.org/abs/2010.15825).
     
-    - 2021: D. A. Clarke, O. Kaczmarek, F. Karsch, A. Lahiri, and M.
-    Sarkar. "Sensitivity of the Polyakov loop and related observ-
-    ables to chiral symmetry restoration", Phys. Rev. D, 103 `DOI`:
+    - 2021: D. A. Clarke, O. Kaczmarek, F. Karsch, A. Lahiri, and M. Sarkar. 
+    "Sensitivity of the Polyakov loop and related observables to chiral symmetry restoration", 
+    Phys. Rev. D, 103 `DOI`:
     [10.1103/PhysRevD.103.L011501](https://doi.org/10.1103/PhysRevD.103.L011501) 
     `arXiv`: [2008.11678](https://arxiv.org/abs/2008.11678).
     
     - 2020: D. A. Clarke, O. Kaczmarek, F. Karsch, and A. Lahiri.
     "Polyakov loop susceptibility and correlators in the chiral limit",
-    363 PoS(LATTICE2019) 194, `DOI`: 
+    PoS(LATTICE2019)194, `DOI`: 
     [10.22323/1.363.0194](https://doi.org/10.22323/1.363.0194) 
     `arXiv`: [1911.07668](https://arxiv.org/abs/1911.07668).
 
@@ -131,13 +161,15 @@ As a graduate student, I helped demonstrate that for pure SU(2), the cooling
             the continuum limit.
 
 ??? note "Publications"
-    - 2018: B. A. Berg and D. A. Clarke, "Topological charge and cooling scales
-    in pure SU(2) lattice gauge theory", Phys. Rev. D, 97, `DOI`:
-    [10.1103/PhysRevD.97.054506](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.054506) 
+    - 2018: B. A. Berg and D. A. Clarke. 
+    "Topological charge and cooling scales in pure SU(2) lattice gauge theory", 
+    Phys. Rev. D, 97, 
+    `DOI`: [10.1103/PhysRevD.97.054506](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.054506) 
     `arXiv`: [1710.09474](https://arxiv.org/abs/1710.09474).
     
-    - 2017: B. A. Berg and D. A. Clarke, "Deconfinement, gradient, and cooling
-    scales for pure SU(2) lattice gauge theory", Phys. Rev. D, 95, `DOI`:
+    - 2017: B. A. Berg and D. A. Clarke. 
+    "Deconfinement, gradient, and cooling scales for pure SU(2) lattice gauge theory", 
+    Phys. Rev. D, 95, `DOI`:
     [10.1103/PhysRevD.95.094508](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.094508) 
     `arXiv`: [1612.07347](https://arxiv.org/abs/1612.07347).
 
@@ -156,15 +188,14 @@ As a graduate student, I helped demonstrate that for pure SU(2), the cooling
             It can run on both NVIDIA and AMD GPUs.
 
 ??? note "Publications"
-    - 2023: L. Mazur, D. Bollweg, D. A. Clarke, L. Altenkort, O. Kaczmarek
-    _et al._,
-          "SIMULATeQCD: A simple multi-GPU lattice code for QCD calculations",
-          `arXiv`:
-               [2306.01098](https://arxiv.org/abs/2306.01098).
-    - 2021: D. Bollweg, L. Altenkort, D. A. Clarke, O. Kaczmarek, L. Mazur
-    _et al._,
-          "HotQCD on Multi-GPU Systems",
-          396 PoS(LATTICE2021)196,
+    - 2023: L. Mazur, D. Bollweg, D. A. Clarke, L. Altenkort, O. Kaczmarek _et al._ 
+    "SIMULATeQCD: A simple multi-GPU lattice code for QCD calculations",
+    Comput. Phys. Commun, 300, 
+    `DOI`:[10.1016/j.cpc.2024.109164](https://doi.org/10.1016/j.cpc.2024.109164), 
+    `arXiv`:[2306.01098](https://arxiv.org/abs/2306.01098).
+    - 2021: D. Bollweg, L. Altenkort, D. A. Clarke, O. Kaczmarek, L. Mazur _et al._
+    "HotQCD on Multi-GPU Systems",
+          PoS(LATTICE2021)196,
           `DOI`:
                [0.22323/1.396.0196](https://pos.sissa.it/396/196/)
           `arXiv`:
@@ -180,8 +211,10 @@ physics modules, for instance allowing hadron resonance gas model calculations;
 and it also includes moderate interfacing with HotQCD and MILC software.
 
 ??? note "Publications"
-    - 2023: L. Altenkort, D. A. Clarke, J. Goswami, H. Sandmeyer,
-    "Streamlined data analysis in Python"
+    - 2023: L. Altenkort, D. A. Clarke, J. Goswami, H. Sandmeyer.
+    "Streamlined data analysis in Python", 
+    PoS(LATTICE2023)136,
+          `DOI`: [10.22323/1.453.0136](https://doi.org/10.22323/1.453.0136)
           `arXiv`:
-               [2308.06652](https://arxiv.org/abs/2308.06652)
+               [2308.06652](https://arxiv.org/abs/2308.06652).
 

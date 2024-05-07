@@ -32,17 +32,23 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
 
 ??? note "Publications"
     - 2024: F. Di Renzo, D. A. Clarke, P. Dimopoulos, C. Schmidt, J. Goswami _et al._
-     "Detecting Lee-Yang/Fisher singularities by multi-point Padè",
+    "Detecting Lee-Yang/Fisher singularities by multi-point Padè",
+    453 PoS(LATTICE2023)169,
+    `DOI`: [10.22323/1.453.0169](https://doi.org/10.22323/1.453.0169)
     `arXiv`: [2401.09619](https://arxiv.org/abs/2401.09619)
 
     - 2024: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
     "Searching for the QCD critical point using Lee-Yang edge 
     singularities",
+    453 PoS(LATTICE2023)168,
+    `DOI`: [10.22323/1.453.0168](https://doi.org/10.22323/1.453.0168)
     `arXiv`: [2401.08820](https://arxiv.org/abs/2401.08820)
 
     - 2024: C. Schmidt, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et al._ 
     "Universal scaling and the asymptotic behaviour of Fourier 
     coefficients of the baryon-number density in QCD",
+    453 PoS(LATTICE2023)167,
+    `DOI`: [10.22323/1.453.0167](https://doi.org/10.22323/1.453.0167)
     `arXiv`: [2401.07790](https://arxiv.org/abs/2401.07790)
 
     - 2024: J. Goswami, D. A. Clarke, P. Dimopoulos, F. Di Renzo, C. Schmidt _et al._ 
@@ -53,7 +59,7 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
     - 2023: K. Zambello, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et al._ 
     "Determination of Lee-Yang edge singularities in QCD by rational
     approximations", 
-    PoS(LATTICE2022)164, 
+    430 PoS(LATTICE2022)164, 
     `DOI`: [10.22323/1.430.0164](https://doi.org/10.22323/1.430.0164)
     `arXiv`: [2301.03952](https://arxiv.org/abs/2301.03952).
     
@@ -93,7 +99,7 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
     - 2022: D. A. Clarke. 
     "Isothermal and isentropic speed of sound in (2+1)-flavor
     QCD at non-zero baryon chemical potential",
-    PoS(LATTICE2022)147,
+    430 PoS(LATTICE2022)147,
     `DOI`: [10.22323/1.430.0147](https://doi.org/10.22323/1.430.0147)
     `arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
 
@@ -119,7 +125,7 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
     - 2021: D. A. Clarke, O. Kaczmarek, F. Karsch, A. Lahiri, and M. Sarkar.
     "Imprint of chiral symmetry restoration on the Polyakov loop and
     the heavy quark free energy", 
-    PoS(LATTICE2021)184, `DOI`:
+    396 PoS(LATTICE2021)184, `DOI`:
     [10.22323/1.396.0184](https://pos.sissa.it/396/184/) 
     `arXiv`: [2111.09844](https://arxiv.org/abs/2111.09844).
     
@@ -138,7 +144,7 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
     
     - 2020: D. A. Clarke, O. Kaczmarek, F. Karsch, and A. Lahiri.
     "Polyakov loop susceptibility and correlators in the chiral limit",
-    PoS(LATTICE2019)194, `DOI`: 
+    363 PoS(LATTICE2019)194, `DOI`: 
     [10.22323/1.363.0194](https://doi.org/10.22323/1.363.0194) 
     `arXiv`: [1911.07668](https://arxiv.org/abs/1911.07668).
 
@@ -195,7 +201,7 @@ As a graduate student, I helped demonstrate that for pure SU(2), the cooling
     `arXiv`:[2306.01098](https://arxiv.org/abs/2306.01098).
     - 2021: D. Bollweg, L. Altenkort, D. A. Clarke, O. Kaczmarek, L. Mazur _et al._
     "HotQCD on Multi-GPU Systems",
-          PoS(LATTICE2021)196,
+          396 PoS(LATTICE2021)196,
           `DOI`:
                [0.22323/1.396.0196](https://pos.sissa.it/396/196/)
           `arXiv`:
@@ -213,7 +219,7 @@ and it also includes moderate interfacing with HotQCD and MILC software.
 ??? note "Publications"
     - 2023: L. Altenkort, D. A. Clarke, J. Goswami, H. Sandmeyer.
     "Streamlined data analysis in Python", 
-    PoS(LATTICE2023)136,
+    453 PoS(LATTICE2023)136,
           `DOI`: [10.22323/1.453.0136](https://doi.org/10.22323/1.453.0136)
           `arXiv`:
                [2308.06652](https://arxiv.org/abs/2308.06652).

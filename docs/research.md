@@ -104,6 +104,7 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
     `arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
 
 ??? note "Presentations"
+    - [QCD material parameters from the lattice](pdfs/2024_RIKEN.pdf)
     - [Isothermal and isentropic speed of sound in (2+1)-flavor QCD at non-zero baryon chemical potential](pdfs/pres_LAT4.pdf)
     - [QCD material parameters at non-zero chemical potential from the lattice](pdfs/pres_QM2023.pdf)
 

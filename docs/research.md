@@ -31,6 +31,10 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
             of phase transitions like the chiral transition.
 
 ??? note "Publications"
+    - 2024: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
+    "Searching for the QCD critical point using multi-point Padé approximations",
+    `arXiv`: [2405.10196](https://arxiv.org/abs/2405.10196)
+
     - 2024: F. Di Renzo, D. A. Clarke, P. Dimopoulos, C. Schmidt, J. Goswami _et al._
     "Detecting Lee-Yang/Fisher singularities by multi-point Padè",
     453 PoS(LATTICE2023)169,

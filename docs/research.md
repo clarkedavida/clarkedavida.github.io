@@ -74,6 +74,7 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
     `arXiv`: [2209.04345](https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=16&aid=1-A52).
 
 ??? note "Presentations"
+    - [RHIC-BES Online Seminar Series](pdfs/2024_RHICBES.pdf)
     - [UIC High Energy Physics Seminar](pdfs/2024_UIC.pdf)
     - [MUSES Seminar](pdfs/2024_MUSES.pdf)
 

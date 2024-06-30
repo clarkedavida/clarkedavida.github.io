@@ -89,9 +89,11 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 
 ??? note "Publications"
 
-    - 2023: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky.
+    - 2024: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky.
     "QCD material parameters at zero and non-zero chemical potential from the
     lattice",
+    EPJ Web Conf. 296 (2024) 14005
+    `DOI`: [10.1051/epjconf/202429614005](https://doi.org/10.1051/epjconf/202429614005)
     `arXiv`: [2312.16703](https://arxiv.org/abs/2312.16703).
 
     - 2023: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch _et al._  

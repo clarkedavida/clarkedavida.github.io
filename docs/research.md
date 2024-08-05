@@ -11,11 +11,14 @@ to the muon's response to an external magnetic field. The hadronic vacuum
 polarization (HVP) is a contribution that is not calculable perturbatively, but
 it can be computed on the lattice and using so-called data-driven approaches.
 A state-of-the-art determination from Fermilab places experimental
-searches for $a_\mu$ at $4.2\sigma$ tension against data-driven theoretical
+searches for $a_\mu$ in significant tension with data-driven theoretical
 methods. Almost simultaneously, a lattice determination of the HVP contribution
 places $a_\mu$ between these two values, favoring the experimental result.
 We perform an independent lattice calculation of the HVP to help sort
 out this situation.
+
+??? note "Presentations"
+    - [Disconnected contribution to the muon $g-2$ HVP](pdfs/2024_LATTICE.pdf)
 
 
 ## QCD phase diagram at pure imaginary baryon chemical potential

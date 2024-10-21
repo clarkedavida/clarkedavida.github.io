@@ -34,34 +34,42 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
             of phase transitions like the chiral transition.
 
 ??? note "Publications"
+
+    - 2024: S. Singh, F. Di Renzo, D. A. Clarke, P. Dimopoulos, J. Goswami _et al._
+    "What we can learn about Lee-Yang zeros from lattice simulations of QCD",
+    PoS EuroPLEx2023 (2024) 025,
+    `DOI`: [10.22323/1.451.0025](https://doi.org/10.22323/1.451.0025).
+
     - 2024: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
     "Searching for the QCD critical point using multi-point Padé approximations",
-    `arXiv`: [2405.10196](https://arxiv.org/abs/2405.10196)
+    `arXiv`: [2405.10196](https://arxiv.org/abs/2405.10196).
 
     - 2024: F. Di Renzo, D. A. Clarke, P. Dimopoulos, C. Schmidt, J. Goswami _et al._
     "Detecting Lee-Yang/Fisher singularities by multi-point Padè",
     453 PoS(LATTICE2023)169,
     `DOI`: [10.22323/1.453.0169](https://doi.org/10.22323/1.453.0169)
-    `arXiv`: [2401.09619](https://arxiv.org/abs/2401.09619)
+    `arXiv`: [2401.09619](https://arxiv.org/abs/2401.09619).
 
     - 2024: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
     "Searching for the QCD critical point using Lee-Yang edge 
     singularities",
     453 PoS(LATTICE2023)168,
     `DOI`: [10.22323/1.453.0168](https://doi.org/10.22323/1.453.0168)
-    `arXiv`: [2401.08820](https://arxiv.org/abs/2401.08820)
+    `arXiv`: [2401.08820](https://arxiv.org/abs/2401.08820).
 
     - 2024: C. Schmidt, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et al._ 
     "Universal scaling and the asymptotic behaviour of Fourier 
     coefficients of the baryon-number density in QCD",
     453 PoS(LATTICE2023)167,
     `DOI`: [10.22323/1.453.0167](https://doi.org/10.22323/1.453.0167)
-    `arXiv`: [2401.07790](https://arxiv.org/abs/2401.07790)
+    `arXiv`: [2401.07790](https://arxiv.org/abs/2401.07790).
 
     - 2024: J. Goswami, D. A. Clarke, P. Dimopoulos, F. Di Renzo, C. Schmidt _et al._ 
     "Exploring the Critical Points in QCD with Multi-Point Padé and 
     Machine Learning Techniques in (2+1)-flavor QCD",
-    `arXiv`: [2401.05651](https://arxiv.org/abs/2401.05651)
+    EPJ Web Conf. 296, 06007,
+    `DOI`: [10.1051/epjconf/202429606007](https://doi.org/10.1051/epjconf/202429606007)
+    `arXiv`: [2401.05651](https://arxiv.org/abs/2401.05651).
 
     - 2023: K. Zambello, D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami _et al._ 
     "Determination of Lee-Yang edge singularities in QCD by rational

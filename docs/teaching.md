@@ -9,15 +9,12 @@ This was made possible through the
 
 ## University of Utah
 
-*Lecturer*
-
-- [Energy and Sustainability](https://utah.instructure.com/courses/890824), Fall 2023.
-
 *Instructor of Record*
 
+- [Energy and Sustainability](https://utah.instructure.com/courses/890824), Fall 2023.
 - [Computational Methods for Hot Nuclear Matter](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter), Fall 2023.
-- [Computational Methods for Hot Nuclear Matter](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter), Summer 2023.
-- [Computational Methods for Hot Nuclear Matter](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter), Spring 2023.
+- Computational Methods for Hot Nuclear Matter, Summer 2023.
+- Computational Methods for Hot Nuclear Matter, Spring 2023.
 
 ## Bielefeld University
 

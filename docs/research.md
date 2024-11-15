@@ -17,6 +17,12 @@ places $a_\mu$ between these two values, favoring the experimental result.
 We perform an independent lattice calculation of the HVP to help sort
 out this situation.
 
+??? note "Publications"
+    - 2024: A. Bazavov, D. A. Clarke, C. T. H. Davies, C. DeTar, A. X. El-Khadra _et al._
+    "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Complete short and intermediate windows",
+    `arXiv`: [2411.09656](https://arxiv.org/abs/2411.09656).
+
+
 ??? note "Presentations"
     - [Disconnected contribution to the muon $g-2$ HVP](pdfs/2024_LATTICE.pdf)
 

@@ -6,16 +6,26 @@ theory and software development. I try to describe each project and link some re
 
 ## HVP contribution to muon anomalous magnetic moment
 
-The anomalous magnetic moment $a_\mu$ gives the Standard Model correction
-to the muon's response to an external magnetic field. The hadronic vacuum
-polarization (HVP) is a contribution that is not calculable perturbatively, but
-it can be computed on the lattice and using so-called data-driven approaches.
-A state-of-the-art determination from Fermilab places experimental
-searches for $a_\mu$ in significant tension with data-driven theoretical
-methods. Almost simultaneously, a lattice determination of the HVP contribution
-places $a_\mu$ between these two values, favoring the experimental result.
-We perform an independent lattice calculation of the HVP to help sort
-out this situation.
+The muon anomalous magnetic moment $a_\mu$ has been measured to extremely high
+precision, most recently at Fermilab by the Muon $g-2$ collaboration.
+On the theoretical side, it can be subdivided into QED, electroweak, and
+hadronic contributions, the latter of which cannot be obtained perturbatively.
+The hadronic vacuum polarization (HVP) contribution 
+can be computed using lattice QCD or using the dispersive method,
+a data-driven approach that takes experimentally measured cross sections as
+input. $a_\mu$ has been of particular interest to the community,
+as state-of-the-art experimental results compared to theoretical
+results extracted using the dispersive approach exhibited about
+$4.2\sigma$ tension in 2020. If that discrepancy
+were confirmed, it may indicate another possible signal for physics beyond
+the Standard Model (SM). 
+Since then, a lattice determination by the BMW Collaboration fell
+between the dispersive and experimental results,
+which has been updated to favor the experimental 
+result, albeit using some additional experimental input.
+Meanwhile the situation for the dispersive approach
+has become somewhat ambiguous, as new measurements from CMD-3 lie in tension with older results.
+Independent lattice input is urgently needed, and I help the Fermilab-HPQCD-MILC collaboration to that end. 
 
 ??? note "Publications"
     - 2024: A. Bazavov, C. W. Bernard, D. A. Clarke, C. T. H. Davies, C. DeTar, _et al._
@@ -134,6 +144,20 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
     - [QCD material parameters from the lattice](pdfs/2024_RIKEN.pdf)
     - [Isothermal and isentropic speed of sound in (2+1)-flavor QCD at non-zero baryon chemical potential](pdfs/pres_LAT4.pdf)
     - [QCD material parameters at non-zero chemical potential from the lattice](pdfs/pres_QM2023.pdf)
+
+
+## Deep learning phases of matter
+
+Deep learning has proven capable of distinguishing phases of matter in classical statistical physics systems.
+For example the output layer of a convolutional neural network can be treated as an effective order parameter
+and used to extract critical parameters. We explore the capabilities and limitations of deep learning with
+the eventual goal of examining the QCD critical point.
+
+??? note "Publications"
+
+    - 2025: A. Abuali, D. A. Clarke, M. Hjorth-Jensen, I. Konstantinidis, C. Ratti _et al._ 
+      "Deep learning of phase transitions with minimal examples",
+      `arXiv`: [2501.05547](https://arxiv.org/abs/2501.05547).
 
 
 ## Gluonic observables in the chiral limit of (2+1)-flavor QCD

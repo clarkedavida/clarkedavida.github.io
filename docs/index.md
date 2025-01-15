@@ -9,12 +9,10 @@ it exists in a state known as [quark-gluon plasma](https://en.wikipedia.org/wiki
 in part because it dominated the early universe, a fraction of a second after the Big Bang. QGP can be probed in heavy ion experiments, 
 which are carried out at [CERN](https://home.cern/science/physics/heavy-ions-and-quark-gluon-plasma) and [Brookhaven](https://www.bnl.gov/rhic/).
 
-Right now I’m working as a postdoc at [University of Utah](https://www.physics.utah.edu/). I’m going to help with lattice input to a calculation of 
+Right now I’m working as a postdoc at [University of Utah](https://www.physics.utah.edu/). I help with lattice input to a calculation of 
 the [anomalous magnetic moment](https://en.wikipedia.org/wiki/Anomalous_magnetic_dipole_moment) of the [muon](https://en.wikipedia.org/wiki/Muon), $a_\mu$.
-Part of $a_\mu$ can be calculated using either lattice methods or so-called dispersive methods, the latter of which have extremely tight
+Parts of $a_\mu$ can be calculated using either lattice methods or so-called dispersive methods, the latter of which have extremely tight
 error bars commensurate with experimental error. There is some discrepancy between the $a_\mu$ determined using dispersive input and
 $a_\mu$ measured in experiment. If this discrepancy were confirmed, it would be exciting to the physics community, since it would indicate
 a specific region where our current theory of particle physics, the [Standard Model](https://en.wikipedia.org/wiki/Standard_Model), 
-breaks down. Interestingly however, a recent calculation
-of $a_\mu$ using lattice input falls between experiment and the dispersive approach, slightly favoring experiment. We're trying to help
-sort this out. 
+breaks down. I am helping with lattice determinations of the hadronic-vacuum-polarization contribution to $a_\mu$. 

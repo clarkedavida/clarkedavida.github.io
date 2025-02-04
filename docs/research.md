@@ -37,7 +37,7 @@ Independent lattice input is urgently needed, and I help the Fermilab-HPQCD-MILC
 
 
 ??? note "Presentations"
-    - [Disconnected contribution to the muon $g-2$ HVP](pdfs/2024_LATTICE.pdf)
+    - [Disconnected contribution to the muon $g-2$ HVP (Lattice2023)](pdfs/2024_LATTICE.pdf)
 
 
 ## QCD phase diagram at pure imaginary baryon chemical potential
@@ -104,9 +104,9 @@ At $\mu_B>0$, the lattice QCD Boltzmann factor becomes complex, rendering
     `arXiv`: [2209.04345](https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=16&aid=1-A52).
 
 ??? note "Presentations"
-    - [RHIC-BES Online Seminar Series](pdfs/2024_RHICBES.pdf)
-    - [UIC High Energy Physics Seminar](pdfs/2024_UIC.pdf)
-    - [MUSES Seminar](pdfs/2024_MUSES.pdf)
+    - [Locating the Critical Point Using Lattice QCD (RHIC-BES Seminar)](pdfs/2024_RHICBES.pdf)
+    - [Searching for the QCD Critical Point Using LYE (UIC HEP Seminar)](pdfs/2024_UIC.pdf)
+    - [Searching for the QCD Critical Point Using LYE (MUSES Seminar)](pdfs/2024_MUSES.pdf)
 
 
 ## QCD phase diagram at non-zero real baryon chemical potential 
@@ -141,9 +141,10 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
     `arXiv`: [2212.10009](https://arxiv.org/abs/2212.10009).
 
 ??? note "Presentations"
-    - [QCD material parameters from the lattice](pdfs/2024_RIKEN.pdf)
-    - [Isothermal and isentropic speed of sound in (2+1)-flavor QCD at non-zero baryon chemical potential](pdfs/pres_LAT4.pdf)
-    - [QCD material parameters at non-zero chemical potential from the lattice](pdfs/pres_QM2023.pdf)
+    - [QCD material parameters from the lattice (BNL)](pdfs/2025_BNL.pdf)
+    - [QCD material parameters from the lattice (RIKEN)](pdfs/2024_RIKEN.pdf)
+    - [QCD material parameters at non-zero chemical potential from the lattice (Quark Matter)](pdfs/pres_QM2023.pdf)
+    - [Isothermal and isentropic speed of sound in (2+1)-flavor QCD at non-zero baryon chemical potential (Lattice2022)](pdfs/pres_LAT4.pdf)
 
 
 ## Deep learning phases of matter
@@ -201,10 +202,10 @@ the eventual goal of examining the QCD critical point.
     `arXiv`: [1911.07668](https://arxiv.org/abs/1911.07668).
 
 ??? note "Presentations"
-    - [Polyakov Loop Susceptibility and Correlators in the Chiral Limit](pdfs/pres_LAT2.pdf)
-    - [Sensitivity of the Polyakov Loop to Chiral Symmetry Restoration](pdfs/pres_CRITICAL.pdf)
-    - [Energy-like observables in the chiral limit](pdfs/pres_CRC2020.pdf)
-    - [Imprint of Chiral Symmetry Restoration on the Polyakov Loop and Heavy Quark Free Energy](pdfs/pres_LAT3.pdf)
+    - [Polyakov Loop Susceptibility and Correlators in the Chiral Limit (Lattice2019)](pdfs/pres_LAT2.pdf)
+    - [Sensitivity of the Polyakov Loop to Chiral Symmetry Restoration (Criticality in QCD)](pdfs/pres_CRITICAL.pdf)
+    - [Energy-like observables in the chiral limit (CRC-TR211 Colloquium)](pdfs/pres_CRC2020.pdf)
+    - [Imprint of Chiral Symmetry Restoration on the Polyakov Loop and Heavy Quark Free Energy (Lattice2021)](pdfs/pres_LAT3.pdf)
 
 
 ## Topology in pure SU(N) lattice gauge theory
@@ -232,8 +233,8 @@ As a graduate student, I helped demonstrate that for pure SU(2), the cooling
     `arXiv`: [1612.07347](https://arxiv.org/abs/1612.07347).
 
 ??? note "Presentations"
-    - [Estimates of scaling violations for pure SU(2) LGT](pdfs/pres_LAT1.pdf)
-    - [Topological Charge and Cooling Scales in Pure SU(2) Lattice Gauge Theory](pdfs/aps.pdf)
+    - [Estimates of scaling violations for pure SU(2) LGT (Lattice2017)](pdfs/pres_LAT1.pdf)
+    - [Topological Charge and Cooling Scales in Pure SU(2) Lattice Gauge Theory (APS April Meeting 2018)](pdfs/aps.pdf)
 
 
 ## SIMULATeQCD

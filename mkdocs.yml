@@ -10,8 +10,6 @@ nav:
     - Outreach: outreach.md
 extra:
   social:
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/dclarkephysics
     - icon: fontawesome/brands/github
       link: https://github.com/clarkedavida
     - icon: fontawesome/brands/linkedin

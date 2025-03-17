@@ -152,7 +152,7 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 Deep learning has proven capable of distinguishing phases of matter in classical statistical physics systems.
 For example the output layer of a convolutional neural network can be treated as an effective order parameter
 and used to extract critical parameters. We explore the capabilities and limitations of deep learning with
-the eventual goal of examining the QCD critical point.
+the eventual goal of examining the width of the QCD crossover transition. 
 
 ??? note "Publications"
 

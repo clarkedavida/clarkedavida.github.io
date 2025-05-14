@@ -33,11 +33,12 @@ Independent lattice input is urgently needed, and I help the Fermilab-HPQCD-MILC
     `arXiv`: [2412.18491](https://arxiv.org/abs/2412.18491).
     - 2024: A. Bazavov, D. A. Clarke, C. T. H. Davies, C. DeTar, A. X. El-Khadra _et al._
     "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Complete short and intermediate windows",
+    `DOI`: [10.1103/PhysRevD.111.094508](https://doi.org/10.1103/PhysRevD.111.094508)
     `arXiv`: [2411.09656](https://arxiv.org/abs/2411.09656).
 
 
 ??? note "Presentations"
-    - [Disconnected contribution to the muon $g-2$ HVP (Lattice2023)](pdfs/2024_LATTICE.pdf)
+    - [Disconnected contribution to the muon $g-2$ HVP (Lattice2024)](pdfs/2024_LATTICE.pdf)
 
 
 ## QCD phase diagram at pure imaginary baryon chemical potential

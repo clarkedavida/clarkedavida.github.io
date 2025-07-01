@@ -123,6 +123,10 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 
 ??? note "Publications"
 
+    - 2025: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky. 
+      "A generalized definition of the isothermal compressibility in (2+1)-flavor QCD",
+      `arXiv`: [2506.22816](https://arxiv.org/abs/2506.22816).
+
     - 2024: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky.
     "QCD material parameters at zero and non-zero chemical potential from the
     lattice",
@@ -212,7 +216,7 @@ the eventual goal of examining the width of the QCD crossover transition.
     - [Imprint of Chiral Symmetry Restoration on the Polyakov Loop and Heavy Quark Free Energy (Lattice2021)](pdfs/pres_LAT3.pdf)
 
 
-## Topology in pure SU(N) lattice gauge theory
+## Topology in pure SU(2) lattice gauge theory
 
 As a graduate student, I helped demonstrate that for pure SU(2), the cooling
             and gradient scales have similar scaling behavior.

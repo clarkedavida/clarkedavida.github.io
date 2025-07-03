@@ -33,6 +33,7 @@ Independent lattice input is urgently needed, and I help the Fermilab-HPQCD-MILC
     `arXiv`: [2505.21476](https://arxiv.org/abs/2505.21476).
     - 2024: A. Bazavov, C. W. Bernard, D. A. Clarke, C. T. H. Davies, C. DeTar _et al._
     "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Long-distance and full light-quark connected contribution"
+    `DOI`: [10.1103/d583-yhfs](https://doi.org/10.1103/d583-yhfs)
     `arXiv`: [2412.18491](https://arxiv.org/abs/2412.18491).
     - 2024: A. Bazavov, D. A. Clarke, C. T. H. Davies, C. DeTar, A. X. El-Khadra _et al._
     "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Complete short and intermediate windows",

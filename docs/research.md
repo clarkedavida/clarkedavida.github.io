@@ -32,11 +32,13 @@ Independent lattice input is urgently needed, and I help the Fermilab-HPQCD-MILC
     "The anomalous magnetic moment of the muon in the Standard Model: an update",
     `arXiv`: [2505.21476](https://arxiv.org/abs/2505.21476).
     - 2024: A. Bazavov, C. W. Bernard, D. A. Clarke, C. T. H. Davies, C. DeTar _et al._
-    "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Long-distance and full light-quark connected contribution"
+    "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Long-distance and full light-quark connected contribution",
+    Phys. Rev. Lett, 135,
     `DOI`: [10.1103/d583-yhfs](https://doi.org/10.1103/d583-yhfs)
     `arXiv`: [2412.18491](https://arxiv.org/abs/2412.18491).
     - 2024: A. Bazavov, D. A. Clarke, C. T. H. Davies, C. DeTar, A. X. El-Khadra _et al._
     "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Complete short and intermediate windows",
+    Phys. Rev. D, 111,
     `DOI`: [10.1103/PhysRevD.111.094508](https://doi.org/10.1103/PhysRevD.111.094508)
     `arXiv`: [2411.09656](https://arxiv.org/abs/2411.09656).
 
@@ -137,8 +139,8 @@ $Z_{\text{QCD}}$ to determine bulk thermodynamic observables for $\mu_B>0$.
 
     - 2023: D. Bollweg, D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch _et al._  
     "Equation of state and speed of sound of (2+1)-flavor QCD
-    in strangeness-neutral matter at non-vanishing net baryon-number
-    density" 
+    in strangeness-neutral matter at non-vanishing net baryon-number density",
+    Phys. Rev. D, 108, 
     `DOI`: [10.1103/PhysRevD.108.014510](https://doi.org/10.1103/PhysRevD.108.014510)
     `arXiv`: [2212.09043](https://arxiv.org/abs/2212.09043).
     

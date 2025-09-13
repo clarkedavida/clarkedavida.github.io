@@ -30,6 +30,8 @@ Independent lattice input is urgently needed, and I help the Fermilab-HPQCD-MILC
 ??? note "Publications"
     - 2025: R. Aliberti, T. Aoyama, E. Balzani, A. Bashir, G. Benton _et al._
     "The anomalous magnetic moment of the muon in the Standard Model: an update",
+          Phys. Rep., 1143,
+           `DOI`: [10.1016/j.physrep.2025.08.002](https://doi.org/10.1016/j.physrep.2025.08.002)
     `arXiv`: [2505.21476](https://arxiv.org/abs/2505.21476).
     - 2024: A. Bazavov, C. W. Bernard, D. A. Clarke, C. T. H. Davies, C. DeTar _et al._
     "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Long-distance and full light-quark connected contribution",

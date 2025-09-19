@@ -171,6 +171,8 @@ the eventual goal of examining the width of the QCD crossover transition.
 
     - 2025: A. Abuali, D. A. Clarke, M. Hjorth-Jensen, I. Konstantinidis, C. Ratti _et al._ 
       "Deep learning of phase transitions with minimal examples",
+      Phys. Rev. E, 112, 
+      `DOI`: [10.1103/wjvx-5nk7](https://doi.org/10.1103/wjvx-5nk7)
       `arXiv`: [2501.05547](https://arxiv.org/abs/2501.05547).
 
 

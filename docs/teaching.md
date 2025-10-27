@@ -2,10 +2,17 @@
 
 I've had the opportunity to do a lot of physics teaching at several levels.
 For various classes I've been a tutor, a teaching assistant (TA), or a grader.
-Recently I've been the Instructor of Record for a small class that exposes
-first-year undergraduates to lattice field theory.
-This was made possible through the
+Recently I've been the Instructor of Record some classes, including a small class that exposes
+first-year undergraduates to lattice field theory. This was made possible through the
 [Science Research Initiative](https://science.utah.edu/sri/).
+
+## Bielefeld University
+
+*Recitation Tutor*
+
+- Elementary Particle Physics, Winter 2025.
+- Computer Physics, Summer 2021 & 2022.
+- Theoretical Physics I, Winter 2020.
 
 ## University of Utah
 
@@ -15,13 +22,6 @@ This was made possible through the
 - [Computational Methods for Hot Nuclear Matter](https://github.com/clarkedavida/Computational-Methods-for-Hot-Nuclear-Matter), Fall 2023.
 - Computational Methods for Hot Nuclear Matter, Summer 2023.
 - Computational Methods for Hot Nuclear Matter, Spring 2023.
-
-## Bielefeld University
-
-*Recitation Tutor*
-
-- Computer Physics, Summer 2021 & 2022.
-- Theoretical Physics I, Winter 2020.
 
 ## Florida State University
 
@@ -52,6 +52,15 @@ This was made possible through the
 
 - Mechanics, Electricity and Magnetism, Waves, Fall & Spring 2010.
 
+
+## Lecture weeks
+
+[HGS-Hire](https://hgs-hire.de/) offers several courses to help develop skills for
+graduate students, including soft skills and coding skills. These courses are taught
+either as ``power weeks", which involve lots of hands-on activities, or lecture weeks.
+I was a trainer for the following courses:
+
+- [Clean software development](https://github.com/AxelKrypton/Clean-software-development)
 
 ## Python pedagogical talks
 

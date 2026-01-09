@@ -74,6 +74,10 @@ initial conditions similar to those in HICs.
 
 ??? note "Publications"
 
+    - 2026: D. A. Clarke, H.-T. Ding, J.-B. Gu, S.-T. Li, S. Mukherjee _et al._
+    "QCD crossover at low temperatures from Lee-Yang edge singularity",
+    `arXiv`: [2601.04782](https://arxiv.org/abs/2601.04782).
+
     - 2025: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
     "Searching for the QCD critical point using multi-point Padé approximations",
     Phys. Rev. D, 112,

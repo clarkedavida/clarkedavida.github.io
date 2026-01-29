@@ -138,6 +138,7 @@ initial conditions similar to those in HICs.
 
 
 ??? note "Presentations"
+    - [Generalizing the isothermal compressibility for QCD](pdfs/ICFP.pdf)
     - [QCD material parameters from the lattice (BNL)](pdfs/2025_BNL.pdf)
     - [Locating the Critical Point Using Lattice QCD (RHIC-BES Seminar)](pdfs/2024_RHICBES.pdf)
     - [Searching for the QCD Critical Point Using LYE (MUSES Seminar)](pdfs/2024_MUSES.pdf)

@@ -78,15 +78,17 @@ initial conditions similar to those in HICs.
     "QCD crossover at low temperatures from Lee-Yang edge singularity",
     `arXiv`: [2601.04782](https://arxiv.org/abs/2601.04782).
 
+    - 2026: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky. 
+    "A generalized definition of the isothermal compressibility in (2+1)-flavor QCD",
+    Phys. Rev. D, 113,
+    `DOI`: [10.1103/xdyq-hphf](https://doi.org/10.1103/xdyq-hphf)
+    `arXiv`: [2506.22816](https://arxiv.org/abs/2506.22816).
+
     - 2025: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
     "Searching for the QCD critical point using multi-point Padé approximations",
     Phys. Rev. D, 112,
     `DOI`: [10.1103/y6kg-ry8x](https://journals.aps.org/prd/abstract/10.1103/y6kg-ry8x)
     `arXiv`: [2405.10196](https://arxiv.org/abs/2405.10196).
-
-    - 2025: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky. 
-      "A generalized definition of the isothermal compressibility in (2+1)-flavor QCD",
-      `arXiv`: [2506.22816](https://arxiv.org/abs/2506.22816).
 
     - 2024: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
     "Searching for the QCD critical point using Lee-Yang edge 

@@ -62,7 +62,7 @@ I was a trainer for the following courses:
 
 - [Clean software development](https://github.com/AxelKrypton/Clean-software-development)
 
-## Python pedagogical talks
+## Pedagogical talks
 
 Bielefeld University was partnered with two other German universities in a CRC; this
 was essentially a collaboration to tackle the QCD phase diagram using multiple methods.
@@ -73,6 +73,11 @@ pedagogical talks are a result of that.
 - [Python and numpy](pdfs/pythonIntro2021.pdf)
 - [OOP in Python](pdfs/pythonOOP2021.pdf)
 - [Targeting performance with Python](pdfs/pythonFAST2021.pdf)
+
+I am also invited sometimes to give introductory talks about lattice QCD. Here are
+some examples:
+
+- [Lattice field theory](pdfs/intro_lattice.pdf)
 
 ## Talks about teaching
 

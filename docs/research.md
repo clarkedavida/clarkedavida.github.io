@@ -74,10 +74,6 @@ initial conditions similar to those in HICs.
 
 ??? note "Publications"
 
-    - 2026: D. A. Clarke, H.-T. Ding, J.-B. Gu, S.-T. Li, S. Mukherjee _et al._
-    "QCD crossover at low temperatures from Lee-Yang edge singularity",
-    `arXiv`: [2601.04782](https://arxiv.org/abs/2601.04782).
-
     - 2026: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky. 
     "A generalized definition of the isothermal compressibility in (2+1)-flavor QCD",
     Phys. Rev. D, 113,
@@ -89,13 +85,6 @@ initial conditions similar to those in HICs.
     Phys. Rev. D, 112,
     `DOI`: [10.1103/y6kg-ry8x](https://journals.aps.org/prd/abstract/10.1103/y6kg-ry8x)
     `arXiv`: [2405.10196](https://arxiv.org/abs/2405.10196).
-
-    - 2024: D. A. Clarke, P. Dimopoulos, F. Di Renzo, J. Goswami, C. Schmidt _et al._ 
-    "Searching for the QCD critical point using Lee-Yang edge 
-    singularities",
-    453 PoS(LATTICE2023)168,
-    `DOI`: [10.22323/1.453.0168](https://doi.org/10.22323/1.453.0168)
-    `arXiv`: [2401.08820](https://arxiv.org/abs/2401.08820).
 
     - 2024: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky.
     "QCD material parameters at zero and non-zero chemical potential from the
@@ -221,6 +210,7 @@ and it also includes moderate interfacing with HotQCD and MILC software.
     `DOI`:[10.1016/j.cpc.2024.109164](https://doi.org/10.1016/j.cpc.2024.109164), 
     `arXiv`:[2306.01098](https://arxiv.org/abs/2306.01098).
 
+<!--
     - 2021: D. Bollweg, L. Altenkort, D. A. Clarke, O. Kaczmarek, L. Mazur _et al._
     "HotQCD on Multi-GPU Systems",
           396 PoS(LATTICE2021)196,
@@ -228,3 +218,4 @@ and it also includes moderate interfacing with HotQCD and MILC software.
                [0.22323/1.396.0196](https://pos.sissa.it/396/196/)
           `arXiv`:
                [2111.10354](https://arxiv.org/abs/2111.10354).
+-->

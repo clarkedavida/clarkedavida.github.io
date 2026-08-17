@@ -28,17 +28,27 @@ Meanwhile the situation for the dispersive approach
 has become somewhat ambiguous, as new measurements from CMD-3 lie in tension with older results.
 Independent lattice input is urgently needed, and I help the Fermilab-HPQCD-MILC collaboration to that end. 
 
-??? note "Publications"
+??? note "Selected Publications"
+
+    - 2026: A. Bazavov, C. W. Bernard, D. A. Clarke, C. E. DeTar, A. X. _et al._
+      "High-precision scale setting with the $\Omega$-baryon mass and gradient flow",
+      Phys. Rev. D, 113,
+      `DOI`:
+           [10.1103/t18c-bpqy](https://doi.org/10.1103/t18c-bpqy)
+      `arXiv`: [2509.14367](https://arxiv.org/abs/2509.14367).
+
     - 2025: R. Aliberti, T. Aoyama, E. Balzani, A. Bashir, G. Benton _et al._
     "The anomalous magnetic moment of the muon in the Standard Model: an update",
           Phys. Rep., 1143,
            `DOI`: [10.1016/j.physrep.2025.08.002](https://doi.org/10.1016/j.physrep.2025.08.002)
     `arXiv`: [2505.21476](https://arxiv.org/abs/2505.21476).
+
     - 2024: A. Bazavov, C. W. Bernard, D. A. Clarke, C. T. H. Davies, C. DeTar _et al._
     "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Long-distance and full light-quark connected contribution",
     Phys. Rev. Lett, 135,
     `DOI`: [10.1103/d583-yhfs](https://doi.org/10.1103/d583-yhfs)
     `arXiv`: [2412.18491](https://arxiv.org/abs/2412.18491).
+
     - 2024: A. Bazavov, D. A. Clarke, C. T. H. Davies, C. DeTar, A. X. El-Khadra _et al._
     "Hadronic vacuum polarization for the muon $g-2$ from lattice QCD: Complete short and intermediate windows",
     Phys. Rev. D, 111,
@@ -46,7 +56,7 @@ Independent lattice input is urgently needed, and I help the Fermilab-HPQCD-MILC
     `arXiv`: [2411.09656](https://arxiv.org/abs/2411.09656).
 
 
-??? note "Presentations"
+??? note "Selected Presentations"
     - [Disconnected contribution to the muon $g-2$ HVP (Lattice2024)](pdfs/2024_LATTICE.pdf)
 
 
@@ -72,7 +82,7 @@ I also compute other properties of the medium, e.g. its material parameters
 or how observables scale approaching various transition points, especially for
 initial conditions similar to those in HICs.
 
-??? note "Publications"
+??? note "Selected Publications"
 
     - 2026: D. A. Clarke, J. Goswami, F. Karsch, and P. Petreczky. 
     "A generalized definition of the isothermal compressibility in (2+1)-flavor QCD",
@@ -128,7 +138,7 @@ initial conditions similar to those in HICs.
     `arXiv`: [2008.11678](https://arxiv.org/abs/2008.11678).
 
 
-??? note "Presentations"
+??? note "Selected Presentations"
     - [Generalizing the isothermal compressibility for QCD](pdfs/ICFP.pdf)
     - [QCD material parameters from the lattice (BNL)](pdfs/2025_BNL.pdf)
     - [Locating the Critical Point Using Lattice QCD (RHIC-BES Seminar)](pdfs/2024_RHICBES.pdf)
@@ -144,10 +154,17 @@ initial conditions similar to those in HICs.
 
 Deep learning has proven capable of distinguishing phases of matter in classical statistical physics systems.
 For example the output layer of a convolutional neural network can be treated as an effective order parameter
-and used to extract critical parameters. We explore the capabilities and limitations of deep learning with
-the eventual goal of examining the width of the QCD crossover transition. 
+and used to extract critical parameters. We explore some capabilities and limitations of deep learning in
+the Ising model with the eventual goal of examining the width of the QCD crossover transition. 
 
-??? note "Publications"
+??? note "Selected Publications"
+
+    - 2026: A. Abuali, D. A. Clarke, M. Hjorth-Jensen, I. Konstantinidis, C. Ratti _et al._
+      "Detecting the 3D Ising model phase transition with a ground-state-trained
+      autoencoder",
+       APS Open Sci., 1,
+      `DOI`: [10.1103/h8n4-94g4](https://doi.org/10.1103/h8n4-94g4)
+      `arXiv`: [2603.20157](https://arxiv.org/abs/2603.20157).
 
     - 2025: A. Abuali, D. A. Clarke, M. Hjorth-Jensen, I. Konstantinidis, C. Ratti _et al._ 
       "Deep learning of phase transitions with minimal examples",
@@ -167,7 +184,7 @@ As a graduate student, I helped demonstrate that for pure SU(2), the cooling
             new estimate for the SU(2) topological susceptibility in 
             the continuum limit.
 
-??? note "Publications"
+??? note "Selected Publications"
     - 2018: B. A. Berg and D. A. Clarke. 
     "Topological charge and cooling scales in pure SU(2) lattice gauge theory", 
     Phys. Rev. D, 97, 
@@ -196,7 +213,8 @@ statistics modules, such as general jackknife and bootstrap error bar calculator
 physics modules, for instance allowing hadron resonance gas model calculations; 
 and it also includes moderate interfacing with HotQCD and MILC software.
 
-??? note "Publications"
+??? note "Selected Publications"
+
     - 2023: L. Altenkort, D. A. Clarke, J. Goswami, H. Sandmeyer.
     "Streamlined data analysis in Python", 
     453 PoS(LATTICE2023)136,
@@ -210,7 +228,6 @@ and it also includes moderate interfacing with HotQCD and MILC software.
     `DOI`:[10.1016/j.cpc.2024.109164](https://doi.org/10.1016/j.cpc.2024.109164), 
     `arXiv`:[2306.01098](https://arxiv.org/abs/2306.01098).
 
-<!--
     - 2021: D. Bollweg, L. Altenkort, D. A. Clarke, O. Kaczmarek, L. Mazur _et al._
     "HotQCD on Multi-GPU Systems",
           396 PoS(LATTICE2021)196,
@@ -218,4 +235,3 @@ and it also includes moderate interfacing with HotQCD and MILC software.
                [0.22323/1.396.0196](https://pos.sissa.it/396/196/)
           `arXiv`:
                [2111.10354](https://arxiv.org/abs/2111.10354).
--->

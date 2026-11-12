@@ -2,9 +2,10 @@
 
 ## Diversity and inclusion
 
-- 2024-2025: UoU [PASSAGE](https://www.physics.utah.edu/passage/) President 
+- 2026-present: CRC-TR211 [Equal Opportunity Committee](https://crc-tr211.org/#Equalitytop) Member
+- 2024-2025: UoU PASSAGE President 
 - 2023-2024: UoU PASSAGE Member
-- 2021-2022: CRC-TR211 [Equal Opportunity Committee](https://crc-tr211.org/#Equalitytop) Member
+- 2021-2022: CRC-TR211 Equal Opportunity Committee Member
 - 2017-2018: APS Academic Peer Mentor
 - 2016-2018: APS Bridge Program Mentor
 

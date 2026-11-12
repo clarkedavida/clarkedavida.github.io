@@ -2,7 +2,8 @@
 
 I've had the opportunity to do a lot of physics teaching at several levels.
 For various classes I've been a tutor, a teaching assistant (TA), or a grader.
-Recently I've been the Instructor of Record some classes, including a small class that exposes
+At University of Utah, I was the Instructor of Record some classes, including a small 
+class that exposes
 first-year undergraduates to lattice field theory. This was made possible through the
 [Science Research Initiative](https://science.utah.edu/sri/).
 
